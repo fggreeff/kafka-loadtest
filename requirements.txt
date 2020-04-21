@@ -1,0 +1,7 @@
+locust
+uuid
+cryptography
+pyjwt
+pymongo
+kafka-python
+gevent
