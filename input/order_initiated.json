@@ -1,0 +1,7 @@
+{
+    "event_type": "order_initiated",
+    "message_body": "{\"metadata\":{\"kafka.offset\":\"122930000\",\"kafka.partition\":\"11\",\"eventName\":\"OrderInitiated\",\"service\":\"order.food-event-generator\",\"sessionId\":\"c6437200\",\"submittedAt\":\"2020-04-21T14:58:01.874Z\",\"occurredAt\":\"2020-04-21T14:58:02.889Z\"},\"payload\":{\"productName\":\"Pizza\",\"productVersion\":\"2.1\",\"enquiry\":{\"useragent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36\"},\"emailAddress\":\"joeblogs000@gmail.com\",\"Food\":{\"Base\":\"dough\",\"Size\":\"small\",\"CostValue\":30},\"FirstName\":\"joe\",\"LastName\":\"blogs\",\"Address\":{\"formattedAddress\":{\"line1\":\"555 Noman Road\",\"postcode\":\"E2 6AW\",\"line2\":\"Sunnyside\"}}}}",
+    "model_version": "2.1",
+    "occurred_at": "2020-04-21",
+    "product_type": "pizza"
+}
